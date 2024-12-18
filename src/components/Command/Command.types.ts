@@ -1,7 +1,7 @@
-import { TSearchOption } from "../../api/settingsApi/settingsApi.types";
+import { TOption } from '@/api/settingsApi/settingsApi.types';
 
 export type TSearchProps = {
-  options: TSearchOption[];
+  options: TOption[];
   className?: string;
   isLoading: boolean;
-}
+};

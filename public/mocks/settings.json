@@ -1,0 +1,54 @@
+{
+  "user": {
+    "name": "John Doe",
+    "account": "0x400x400x400x400x400x400x4069bd",
+    "chain": "Base"
+  },
+  "search_options": [
+    { "label": "Option 1", "value": "option1" },
+    { "label": "Option 2", "value": "option2" },
+    { "label": "Option 3", "value": "option3" }
+  ],
+  "chains_options": [
+    { "label": "All chains", "value": "allchains" },
+    { "label": "Ethereum", "value": "ethereum" },
+    { "label": "TON", "value": "ton" },
+    { "label": "Arbitrum", "value": "arbitrum" },
+    { "label": "Polygon", "value": "polygon" },
+    { "label": "Base", "value": "base" },
+    { "label": "Celo", "value": "celo" },
+    { "label": "Kroma", "value": "kroma" },
+    { "label": "Moonbeam", "value": "moonbeam" },
+    { "label": "Palm", "value": "palm" },
+    { "label": "Lisk", "value": "lisk" },
+    { "label": "Rari Chain", "value": "rari" },
+    { "label": "ImmutableX", "value": "immutablex" },
+    { "label": "Xai", "value": "xai" },
+    { "label": "Sei", "value": "sei" },
+    { "label": "Bera", "value": "bera" },
+    { "label": "Monad", "value": "monad" },
+    { "label": "Mantle", "value": "mantle" }
+  ],
+  "timeframe_options": [
+    {
+      "label": "1 hour",
+      "value": "1h"
+    },
+    {
+      "label": "6 hours",
+      "value": "6h"
+    },
+    {
+      "label": "24 hours",
+      "value": "24h"
+    },
+    {
+      "label": "7 days",
+      "value": "7d"
+    },
+    {
+      "label": "30 days",
+      "value": "30d"
+    }
+  ]
+}
